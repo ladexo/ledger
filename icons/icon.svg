@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2a1418"/><stop offset="1" stop-color="#0c0709"/></linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f6e3b0"/><stop offset=".5" stop-color="#d6b25e"/><stop offset="1" stop-color="#9a7631"/></linearGradient>
+    <radialGradient id="r" cx=".5" cy=".42" r=".6"><stop offset="0" stop-color="#b3122e" stop-opacity=".55"/><stop offset="1" stop-color="#b3122e" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect x="7" y="4" width="50" height="56" rx="7" fill="url(#g)" stroke="url(#gold)" stroke-width="1.6"/>
+  <rect x="11" y="8" width="42" height="48" rx="4.5" fill="url(#r)" stroke="#d6b25e" stroke-opacity=".35" stroke-width=".8"/>
+  <g transform="translate(32 33) scale(.9)" stroke-linejoin="round" stroke-width="1.7">
+    <path d="M0 -2.5 C -3.5 -6 -10.5 -10 -10 -18.5 C -9.6 -25 -2.8 -26.5 0 -20.5 C 2.8 -26.5 9.6 -25 10 -18.5 C 10.5 -10 3.5 -6 0 -2.5 Z" fill="#0a0709" stroke="#e23b54"/>
+    <path d="M0 -2.5 C -3.5 -6 -10.5 -10 -10 -18.5 C -9.6 -25 -2.8 -26.5 0 -20.5 C 2.8 -26.5 9.6 -25 10 -18.5 C 10.5 -10 3.5 -6 0 -2.5 Z" transform="rotate(72)" fill="rgba(214,178,94,.12)" stroke="url(#gold)"/>
+    <path d="M0 -2.5 C -3.5 -6 -10.5 -10 -10 -18.5 C -9.6 -25 -2.8 -26.5 0 -20.5 C 2.8 -26.5 9.6 -25 10 -18.5 C 10.5 -10 3.5 -6 0 -2.5 Z" transform="rotate(144)" fill="rgba(214,178,94,.12)" stroke="url(#gold)"/>
+    <path d="M0 -2.5 C -3.5 -6 -10.5 -10 -10 -18.5 C -9.6 -25 -2.8 -26.5 0 -20.5 C 2.8 -26.5 9.6 -25 10 -18.5 C 10.5 -10 3.5 -6 0 -2.5 Z" transform="rotate(216)" fill="rgba(214,178,94,.12)" stroke="url(#gold)"/>
+    <path d="M0 -2.5 C -3.5 -6 -10.5 -10 -10 -18.5 C -9.6 -25 -2.8 -26.5 0 -20.5 C 2.8 -26.5 9.6 -25 10 -18.5 C 10.5 -10 3.5 -6 0 -2.5 Z" transform="rotate(288)" fill="rgba(214,178,94,.12)" stroke="url(#gold)"/>
+    <circle r="2.8" fill="#f0d9a0" stroke="none"/>
+  </g>
+</svg>
